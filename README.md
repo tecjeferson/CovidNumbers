@@ -3,10 +3,10 @@
     <img src="https://diegolaballos.com/files/images/flutter-icon.jpg" alt="Logo" width=72 height=72>
   </a>
 
-  <h3 align="center">My Shopping Flutter App</h3>
+  <h3 align="center">COVIDNUMBERS</h3>
 
   <p align="center">
-    Its is a a project to practice layout on flutter
+    Keep Safe
     <br>
     Project made with dedication and hardwork. I love it :heart:
     <br>
@@ -43,4 +43,4 @@ This app was created to help Brazilian people know the numbers of COVID-19 and p
 
 ## Thanks
 
-Thanks all professionals :mask: #KeepSave
+Thanks all professionals :mask: #KeepSafe
