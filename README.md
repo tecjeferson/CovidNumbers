@@ -44,3 +44,5 @@ This app was created to help Brazilian people know the numbers of COVID-19 and p
 ## Thanks
 
 Thanks all professionals :mask: #KeepSafe
+
+![covidnumbers](https://user-images.githubusercontent.com/27305574/80436573-d7e8ef00-88d5-11ea-97f8-7c5c5b589f9b.png)
